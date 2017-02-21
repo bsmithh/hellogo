@@ -1,8 +1,8 @@
 # hellogo
 
 # in a terminal, type the following code
-touch hello.go
-open -e hello.go
+touch hello.go  
+open -e hello.go  
 
 # once the text editor has opened, type the following code
 package main  
